@@ -4,7 +4,6 @@
   "description": "ipso anadarko protractor test project",
   "main": "conf.js",
   "scripts": {
-    "pretest": "rm -rf allure-report",
     "test": "protractor conf.js",
     "webdriver:start": "webdriver-manager start",
     "posttest": "allure generate allure-results --clean -o allure-report || true"
