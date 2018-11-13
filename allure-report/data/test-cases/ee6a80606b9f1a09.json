@@ -1,0 +1,77 @@
+{
+  "uid" : "ee6a80606b9f1a09",
+  "name" : "should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed",
+  "fullName" : "Forecast vs Actual Production Test.should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed",
+  "historyId" : "f3fa64a2c2f5fee99af562d0e96aab69",
+  "time" : {
+    "start" : 1542103551830,
+    "stop" : 1542103562378,
+    "duration" : 10548
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a3343fc4ca82474b",
+      "name" : "Screenshot",
+      "source" : "a3343fc4ca82474b.png",
+      "type" : "image/png",
+      "size" : 96613
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c1491b4336185c2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103312280,
+        "stop" : 1542103323072,
+        "duration" : 10792
+      }
+    }, {
+      "uid" : "ff5b7fb40a9b2895",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103041968,
+        "stop" : 1542103052101,
+        "duration" : 10133
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee6a80606b9f1a09.json",
+  "parameterValues" : [ ]
+}

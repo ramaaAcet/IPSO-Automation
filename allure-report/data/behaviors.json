@@ -1,0 +1,113 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should navigate to homepage and validate if GOM and GHANA are displayed",
+    "uid" : "c43384bef61c5e6b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1542103484845,
+      "stop" : 1542103493733,
+      "duration" : 8888
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should navigate to GOM Dashboard and check if all the fields and components are displayed",
+    "uid" : "1472655e781acfad",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1542103493733,
+      "stop" : 1542103503499,
+      "duration" : 9766
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should navigate to GHANA Dashboard and check if all the fields and components are displayed",
+    "uid" : "b448f759c03ec362",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1542103503499,
+      "stop" : 1542103515814,
+      "duration" : 12315
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should navigate to GOM production summary page and validate if all the components are displayed",
+    "uid" : "46fe72de92792fd5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1542103515826,
+      "stop" : 1542103527354,
+      "duration" : 11528
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should navigate to GHANA production summary page and validate if all the components are displayed",
+    "uid" : "3dd122f8a432e9e8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1542103527354,
+      "stop" : 1542103538870,
+      "duration" : 11516
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed",
+    "uid" : "1fd97fee40b9df0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1542103538886,
+      "stop" : 1542103551830,
+      "duration" : 12944
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed",
+    "uid" : "ee6a80606b9f1a09",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1542103551830,
+      "stop" : 1542103562378,
+      "duration" : 10548
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should navigate to GOM Downtime Summary page and validate if all the components are displayed",
+    "uid" : "e51c7c0ad917e2c0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1542103562394,
+      "stop" : 1542103573465,
+      "duration" : 11071
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "should navigate to GHANA Downtime Summary page and validate if all the components are displayed",
+    "uid" : "470ecfc54ad5e7e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1542103573465,
+      "stop" : 1542103584336,
+      "duration" : 10871
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

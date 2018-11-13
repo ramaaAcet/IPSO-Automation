@@ -1,0 +1,35 @@
+{
+  "name": "ipso_anadarko",
+  "version": "1.0.0",
+  "description": "ipso anadarko protractor test project",
+  "main": "conf.js",
+  "scripts": {
+    "pretest": "rm -rf allure-report",
+    "test": "protractor conf.js",
+    "webdriver:start": "webdriver-manager start",
+    "posttest": "allure generate allure-results --clean -o allure-report || true"
+  },
+  "keywords": [
+    "Protractor"
+  ],
+  "author": "Ramaa Thangam",
+  "license": "ISC",
+  "dependencies": {
+    "perfecto-reporting": "^2.5.0",
+    "protractor": "^5.4.1",
+    "protractor-html-reporter-2": "^1.0.4",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0",
+    "webdriver-manager": "^12.1.0"
+  },
+  "devDependencies": {
+    "@types/protractor": "^4.0.0",
+    "allure-commandline": "^2.8.1",
+    "gulp-protractor": "^4.1.0",
+    "jasmine-allure-reporter": "^0.2.3",
+    "jasmine-reporters": "^2.3.2",
+    "jasmine-spec-reporter": "^4.2.1",
+    "jasmine2-protractor-utils": "^1.3.0",
+    "protractor-beautiful-reporter": "^1.2.5",
+    "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.0"
+  }
+}

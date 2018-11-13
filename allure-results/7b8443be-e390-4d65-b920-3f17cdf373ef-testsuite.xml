@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1542103323092" stop="1542103346257">
+	<name>Downtime Summary Test</name>
+	<title>Downtime Summary Test</title>
+	<test-cases>
+		<test-case start="1542103323092" stop="1542103334850" status="passed">
+			<name>should navigate to GOM Downtime Summary page and validate if all the components are displayed</name>
+			<title>should navigate to GOM Downtime Summary page and validate if all the components are displayed</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="668d3832-1f18-454d-96c5-7f31723d2496-attachment.png" type="image/png" size="83258"/>
+			</attachments>
+		</test-case>
+		<test-case start="1542103334850" stop="1542103346255" status="passed">
+			<name>should navigate to GHANA Downtime Summary page and validate if all the components are displayed</name>
+			<title>should navigate to GHANA Downtime Summary page and validate if all the components are displayed</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="0ff02832-f17a-465c-8a83-79cf035987cf-attachment.png" type="image/png" size="82800"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

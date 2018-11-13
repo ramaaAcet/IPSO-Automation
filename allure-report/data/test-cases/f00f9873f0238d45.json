@@ -1,0 +1,59 @@
+{
+  "uid" : "f00f9873f0238d45",
+  "name" : "should navigate to GHANA Dashboard and check if all the fields and components are displayed",
+  "fullName" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test.should navigate to GHANA Dashboard and check if all the fields and components are displayed",
+  "historyId" : "bcab48095b674a85672c6ad1d81566be",
+  "time" : {
+    "start" : 1542103264758,
+    "stop" : 1542103277011,
+    "duration" : 12253
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "38ad9f0362ee99f8",
+      "name" : "Screenshot",
+      "source" : "38ad9f0362ee99f8.png",
+      "type" : "image/png",
+      "size" : 418039
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to GHANA Dashboard and check if all the fields and components are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f00f9873f0238d45.json",
+  "parameterValues" : [ ]
+}

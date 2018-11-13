@@ -1,0 +1,59 @@
+{
+  "uid" : "d90dd889e680b49f",
+  "name" : "should navigate to homepage and validate if GOM and GHANA are displayed",
+  "fullName" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test.should navigate to homepage and validate if GOM and GHANA are displayed",
+  "historyId" : "7e1148884924237c86259e511288a85f",
+  "time" : {
+    "start" : 1542102976650,
+    "stop" : 1542102986600,
+    "duration" : 9950
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "103220fa3f128b83",
+      "name" : "Screenshot",
+      "source" : "103220fa3f128b83.png",
+      "type" : "image/png",
+      "size" : 855582
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to homepage and validate if GOM and GHANA are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d90dd889e680b49f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1542103277022" stop="1542103299684">
+	<name>Production Summary Test</name>
+	<title>Production Summary Test</title>
+	<test-cases>
+		<test-case start="1542103277022" stop="1542103288675" status="passed">
+			<name>should navigate to GOM production summary page and validate if all the components are displayed</name>
+			<title>should navigate to GOM production summary page and validate if all the components are displayed</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="0f31c6a4-3e5d-4b74-8a5e-73921a2922fa-attachment.png" type="image/png" size="77773"/>
+			</attachments>
+		</test-case>
+		<test-case start="1542103288676" stop="1542103299682" status="passed">
+			<name>should navigate to GHANA production summary page and validate if all the components are displayed</name>
+			<title>should navigate to GHANA production summary page and validate if all the components are displayed</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="e1271a2e-6c37-4575-97a1-843e96119461-attachment.png" type="image/png" size="77469"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

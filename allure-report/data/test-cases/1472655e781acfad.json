@@ -1,0 +1,77 @@
+{
+  "uid" : "1472655e781acfad",
+  "name" : "should navigate to GOM Dashboard and check if all the fields and components are displayed",
+  "fullName" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test.should navigate to GOM Dashboard and check if all the fields and components are displayed",
+  "historyId" : "773533f9b0d55ac83e8525f3cc6a5dd6",
+  "time" : {
+    "start" : 1542103493733,
+    "stop" : 1542103503499,
+    "duration" : 9766
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "55d9ca86bd9651cb",
+      "name" : "Screenshot",
+      "source" : "55d9ca86bd9651cb.png",
+      "type" : "image/png",
+      "size" : 459326
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to GOM Dashboard and check if all the fields and components are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1005af1b0aea6466",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103254855,
+        "stop" : 1542103264757,
+        "duration" : 9902
+      }
+    }, {
+      "uid" : "6d13051ca813a47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542102986600,
+        "stop" : 1542102995810,
+        "duration" : 9210
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1472655e781acfad.json",
+  "parameterValues" : [ ]
+}

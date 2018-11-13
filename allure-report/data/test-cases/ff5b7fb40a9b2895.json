@@ -1,0 +1,59 @@
+{
+  "uid" : "ff5b7fb40a9b2895",
+  "name" : "should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed",
+  "fullName" : "Forecast vs Actual Production Test.should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed",
+  "historyId" : "f3fa64a2c2f5fee99af562d0e96aab69",
+  "time" : {
+    "start" : 1542103041968,
+    "stop" : 1542103052101,
+    "duration" : 10133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c03eadb38f9e70b7",
+      "name" : "Screenshot",
+      "source" : "c03eadb38f9e70b7.png",
+      "type" : "image/png",
+      "size" : 96613
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff5b7fb40a9b2895.json",
+  "parameterValues" : [ ]
+}

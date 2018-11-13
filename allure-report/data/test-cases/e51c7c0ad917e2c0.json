@@ -1,0 +1,77 @@
+{
+  "uid" : "e51c7c0ad917e2c0",
+  "name" : "should navigate to GOM Downtime Summary page and validate if all the components are displayed",
+  "fullName" : "Downtime Summary Test.should navigate to GOM Downtime Summary page and validate if all the components are displayed",
+  "historyId" : "c86479d2814a2ae429462f47ae8785f6",
+  "time" : {
+    "start" : 1542103562394,
+    "stop" : 1542103573465,
+    "duration" : 11071
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "342c65729c7bc019",
+      "name" : "Screenshot",
+      "source" : "342c65729c7bc019.png",
+      "type" : "image/png",
+      "size" : 220321
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Downtime Summary Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Downtime Summary Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to GOM Downtime Summary page and validate if all the components are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Downtime Summary Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "41914cdc0e4e47f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103323092,
+        "stop" : 1542103334850,
+        "duration" : 11758
+      }
+    }, {
+      "uid" : "86d55b67e0912d52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103052117,
+        "stop" : 1542103062824,
+        "duration" : 10707
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e51c7c0ad917e2c0.json",
+  "parameterValues" : [ ]
+}

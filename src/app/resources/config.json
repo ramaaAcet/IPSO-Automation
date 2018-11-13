@@ -1,0 +1,21 @@
+{
+    "url": {
+        "gomShutInUrl": "#/GOM/CONSTITUTION/caesar-tonga/shut-in-analysis",
+        "gomDashboardUrl": "#/GOM/daily-dashboard",
+        "ghanaDashboardUrl": "#/GHANA/daily-dashboard",
+        "gomProductionSummaryUrl": "#/GOM/production-summary",
+        "ghanaProductionSummaryUrl": "#/GHANA/production-summary",
+        "gomForecastvsActualUrl": "#/GOM/forecast-vs-actual-production",
+        "ghanaForecastvsActualUrl": "#/GHANA/forecast-vs-actual-production",
+        "gomDownTimeSummaryUrl": "#/GOM/downtime-summary",
+        "ghanaDownTimeSummaryUrl": "#/GHANA/downtime-summary"
+    },
+    
+    "title": {
+        "homepageTitle": "IPSO",
+        "dashboardTitle": "Business Unit Dashboard",
+        "downtimeTitle": "Downtime Summary",
+        "forecastvsactualTitle" : "Forecast vs Actual Production",
+        "productionTitle" : "Production Summary"
+    }
+}

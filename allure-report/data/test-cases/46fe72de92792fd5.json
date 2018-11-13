@@ -1,0 +1,77 @@
+{
+  "uid" : "46fe72de92792fd5",
+  "name" : "should navigate to GOM production summary page and validate if all the components are displayed",
+  "fullName" : "Production Summary Test.should navigate to GOM production summary page and validate if all the components are displayed",
+  "historyId" : "6f3a18e1cbf537d55eabf999c77c856c",
+  "time" : {
+    "start" : 1542103515826,
+    "stop" : 1542103527354,
+    "duration" : 11528
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7a9b4ca6844b6b7",
+      "name" : "Screenshot",
+      "source" : "7a9b4ca6844b6b7.png",
+      "type" : "image/png",
+      "size" : 188943
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Production Summary Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Production Summary Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to GOM production summary page and validate if all the components are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Production Summary Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "40a595f117f9dd2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103277022,
+        "stop" : 1542103288675,
+        "duration" : 11653
+      }
+    }, {
+      "uid" : "78742ca4dc798dfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103007790,
+        "stop" : 1542103019091,
+        "duration" : 11301
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46fe72de92792fd5.json",
+  "parameterValues" : [ ]
+}

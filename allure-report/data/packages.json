@@ -1,0 +1,129 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Navigation to Home Page and GOM/GHANA Daily Dashboard Test",
+    "children" : [ {
+      "name" : "should navigate to homepage and validate if GOM and GHANA are displayed",
+      "uid" : "c43384bef61c5e6b",
+      "parentUid" : "99761ab458e89aed5e94bfa19dca1733",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103484845,
+        "stop" : 1542103493733,
+        "duration" : 8888
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should navigate to GOM Dashboard and check if all the fields and components are displayed",
+      "uid" : "1472655e781acfad",
+      "parentUid" : "99761ab458e89aed5e94bfa19dca1733",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103493733,
+        "stop" : 1542103503499,
+        "duration" : 9766
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should navigate to GHANA Dashboard and check if all the fields and components are displayed",
+      "uid" : "b448f759c03ec362",
+      "parentUid" : "99761ab458e89aed5e94bfa19dca1733",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103503499,
+        "stop" : 1542103515814,
+        "duration" : 12315
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "99761ab458e89aed5e94bfa19dca1733"
+  }, {
+    "name" : "Production Summary Test",
+    "children" : [ {
+      "name" : "should navigate to GOM production summary page and validate if all the components are displayed",
+      "uid" : "46fe72de92792fd5",
+      "parentUid" : "eb0efd3bd87a7b71a1ee80273d3fc29a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103515826,
+        "stop" : 1542103527354,
+        "duration" : 11528
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should navigate to GHANA production summary page and validate if all the components are displayed",
+      "uid" : "3dd122f8a432e9e8",
+      "parentUid" : "eb0efd3bd87a7b71a1ee80273d3fc29a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103527354,
+        "stop" : 1542103538870,
+        "duration" : 11516
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "eb0efd3bd87a7b71a1ee80273d3fc29a"
+  }, {
+    "name" : "Forecast vs Actual Production Test",
+    "children" : [ {
+      "name" : "should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed",
+      "uid" : "1fd97fee40b9df0",
+      "parentUid" : "f2d353c1d03e9a6c1ffa8de7ce7b0308",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103538886,
+        "stop" : 1542103551830,
+        "duration" : 12944
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed",
+      "uid" : "ee6a80606b9f1a09",
+      "parentUid" : "f2d353c1d03e9a6c1ffa8de7ce7b0308",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103551830,
+        "stop" : 1542103562378,
+        "duration" : 10548
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f2d353c1d03e9a6c1ffa8de7ce7b0308"
+  }, {
+    "name" : "Downtime Summary Test",
+    "children" : [ {
+      "name" : "should navigate to GOM Downtime Summary page and validate if all the components are displayed",
+      "uid" : "e51c7c0ad917e2c0",
+      "parentUid" : "4fe88766d2105f3c27acfc7ec2042859",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103562394,
+        "stop" : 1542103573465,
+        "duration" : 11071
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should navigate to GHANA Downtime Summary page and validate if all the components are displayed",
+      "uid" : "470ecfc54ad5e7e",
+      "parentUid" : "4fe88766d2105f3c27acfc7ec2042859",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103573465,
+        "stop" : 1542103584336,
+        "duration" : 10871
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4fe88766d2105f3c27acfc7ec2042859"
+  } ]
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1542103299690" stop="1542103323074">
+	<name>Forecast vs Actual Production Test</name>
+	<title>Forecast vs Actual Production Test</title>
+	<test-cases>
+		<test-case start="1542103299690" stop="1542103312280" status="passed">
+			<name>should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed</name>
+			<title>should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="7cd9067e-5809-4bf4-9da2-083555556c63-attachment.png" type="image/png" size="104065"/>
+			</attachments>
+		</test-case>
+		<test-case start="1542103312280" stop="1542103323072" status="passed">
+			<name>should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed</name>
+			<title>should navigate to GHANA Forecast vs Actual production page and validate if all the components are displayed</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="9398dd7f-c404-4c13-9ba1-1929dbecf647-attachment.png" type="image/png" size="70697"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

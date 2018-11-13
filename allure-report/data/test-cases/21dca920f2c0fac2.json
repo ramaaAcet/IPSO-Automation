@@ -1,0 +1,59 @@
+{
+  "uid" : "21dca920f2c0fac2",
+  "name" : "should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed",
+  "fullName" : "Forecast vs Actual Production Test.should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed",
+  "historyId" : "710323747fe23f7253ba00db6e06343a",
+  "time" : {
+    "start" : 1542103299690,
+    "stop" : 1542103312280,
+    "duration" : 12590
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b556ec835fe19e6b",
+      "name" : "Screenshot",
+      "source" : "b556ec835fe19e6b.png",
+      "type" : "image/png",
+      "size" : 104065
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21dca920f2c0fac2.json",
+  "parameterValues" : [ ]
+}

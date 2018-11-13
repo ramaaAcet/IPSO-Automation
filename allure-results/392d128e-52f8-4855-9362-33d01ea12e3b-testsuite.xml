@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1542103484844" stop="1542103515817">
+	<name>Navigation to Home Page and GOM/GHANA Daily Dashboard Test</name>
+	<title>Navigation to Home Page and GOM/GHANA Daily Dashboard Test</title>
+	<test-cases>
+		<test-case start="1542103484845" stop="1542103493733" status="passed">
+			<name>should navigate to homepage and validate if GOM and GHANA are displayed</name>
+			<title>should navigate to homepage and validate if GOM and GHANA are displayed</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="105c8af2-764d-4048-bc0f-15ab4fce8412-attachment.png" type="image/png" size="855582"/>
+			</attachments>
+		</test-case>
+		<test-case start="1542103493733" stop="1542103503499" status="passed">
+			<name>should navigate to GOM Dashboard and check if all the fields and components are displayed</name>
+			<title>should navigate to GOM Dashboard and check if all the fields and components are displayed</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="9a342aaf-6398-4c36-b4b9-0b2346a3b47c-attachment.png" type="image/png" size="459326"/>
+			</attachments>
+		</test-case>
+		<test-case start="1542103503499" stop="1542103515814" status="passed">
+			<name>should navigate to GHANA Dashboard and check if all the fields and components are displayed</name>
+			<title>should navigate to GHANA Dashboard and check if all the fields and components are displayed</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="ee26da11-e293-47bd-bb76-6a11c2cbc0eb-attachment.png" type="image/png" size="415115"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

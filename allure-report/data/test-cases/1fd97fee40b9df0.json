@@ -1,0 +1,77 @@
+{
+  "uid" : "1fd97fee40b9df0",
+  "name" : "should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed",
+  "fullName" : "Forecast vs Actual Production Test.should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed",
+  "historyId" : "710323747fe23f7253ba00db6e06343a",
+  "time" : {
+    "start" : 1542103538886,
+    "stop" : 1542103551830,
+    "duration" : 12944
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "910ecf38166e23b6",
+      "name" : "Screenshot",
+      "source" : "910ecf38166e23b6.png",
+      "type" : "image/png",
+      "size" : 163806
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Forecast vs Actual Production Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "21dca920f2c0fac2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103299690,
+        "stop" : 1542103312280,
+        "duration" : 12590
+      }
+    }, {
+      "uid" : "c1522df8f29faab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1542103029635,
+        "stop" : 1542103041968,
+        "duration" : 12333
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1fd97fee40b9df0.json",
+  "parameterValues" : [ ]
+}
