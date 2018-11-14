@@ -49,7 +49,7 @@ exports.config = {
 
     onPrepare: function () {
 
-        browser.ignoreSynchronization = true;
+        //browser.ignoreSynchronization = true;
         browser.manage().window().maximize();
 
         //Jasmine2Reporter

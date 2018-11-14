@@ -9,6 +9,10 @@ var pageUrl = downTimeSummaryConf.url;
 var EC = protractor.ExpectedConditions;
 
 describe('Downtime Summary Test', function () {
+	
+	beforeEach(function () {
+		browser.ignoreSynchronization = true;
+	}, 5000);
 
     it('should navigate to GOM Downtime Summary page and validate if all the components are displayed', function () {
         browser.get('' + pageUrl.gomDashboardUrl);

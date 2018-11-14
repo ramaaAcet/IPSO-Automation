@@ -9,6 +9,10 @@ var pageUrl = productionSummaryConf.url;
 var EC = protractor.ExpectedConditions;
 
 describe('Production Summary Test', function () {
+	
+	beforeEach(function () {
+		browser.ignoreSynchronization = true;
+	}, 5000);
 
 	it('should navigate to GOM production summary page and validate if all the components are displayed', function () {
 		browser.get('' + pageUrl.gomDashboardUrl);

@@ -9,6 +9,10 @@ var pageUrl = forecastvsActualConf.url;
 var EC = protractor.ExpectedConditions;
 
 describe('Forecast vs Actual Production Test', function () {
+	
+	beforeEach(function () {
+		browser.ignoreSynchronization = true;
+	}, 5000);
 
 	it('should navigate to GOM Forecast vs Actual production page and validate if all the components are displayed', function () {
 		browser.get('' + pageUrl.gomDashboardUrl);

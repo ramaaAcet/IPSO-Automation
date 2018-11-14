@@ -8,6 +8,10 @@ var pageUrl = dashboardConf.url;
 var EC = protractor.ExpectedConditions;
 
 describe('Navigation to Home Page and GOM/GHANA Daily Dashboard Test', function () {
+	
+	beforeEach(function () {
+		browser.ignoreSynchronization = true;
+	}, 5000);
 
 	it('should navigate to homepage and validate if GOM and GHANA are displayed', function () {
 		browser.get('');
