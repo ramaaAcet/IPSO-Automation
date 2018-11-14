@@ -14,6 +14,7 @@
   "author": "Ramaa Thangam",
   "license": "ISC",
   "dependencies": {
+	"fs-extra": "^7.0.1",
     "perfecto-reporting": "^2.5.0",
     "protractor": "^5.4.1",
     "protractor-html-reporter-2": "^1.0.4",
