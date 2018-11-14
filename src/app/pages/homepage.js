@@ -1,8 +1,8 @@
 var homepage = function () {
 
-	this.ipsoHeader = element(by.css(".clsIpsoOffshore"));
-	this.gomLink = element(by.css(".clsHomePageCard:nth-child(1) figcaption"));
-	this.ghanaLink = element(by.css(".clsHomePageCard:nth-child(2) figcaption"));
+	this.ipsoHeader = element(by.xpath("//h2[contains(@class,'clsIpsoOffshore')]"));
+	this.gomLink = element(by.css("a[title='GOM']"));
+	this.ghanaLink = element(by.css("a[title='GHANA']"));
 
 	this.homePageDisplayValidation = function () {
 		expect(this.ipsoHeader.getText()).toContain("IPSO");

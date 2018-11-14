@@ -26,8 +26,8 @@ var commonelements = function () {
     //chartOptions 
     this.chartExportToExcel = element.all(by.css("a[title='Export to Excel']"));
     this.chartMinimize = element(by.css("a[title='Minimize']"));
-    this.chartSettings = element(by.css("a[title='Settings"));
-    this.chartMaximize = element.all(by.css("a[title='Fullscreen"));
+    this.chartSettings = element(by.css("a[title='Settings']"));
+    this.chartMaximize = element.all(by.css("a[title='Fullscreen']"));
 
     //SideBarInDashboard
     this.homeLink = element(by.linkText("Home"));
